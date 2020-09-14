@@ -1,0 +1,25 @@
+{
+  "font_name": {
+      "type": "googleFont",
+      "label": "Select a font:",
+      "value": "Montserrat"
+    },
+  "font_colour": {
+    "type": "colorpicker",
+    "label": "Font colour",
+    "value": "#000"
+  },
+  "font_weight": {
+    "type": "text",
+    "label": "Font weight: (standard is 400)",
+    "value": "400"
+  },
+  "rounding_amount": {
+    "type": "number",
+    "label": "Sub goal to round to:",
+    "value": 5,
+    "min": 5,
+    "max": 100,
+    "step": 1
+  }
+}
